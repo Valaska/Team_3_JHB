@@ -24,6 +24,6 @@ we trained a regression model to predict the estimated time arrival for a motorb
 #Developers:
 * Valaska Reddy
 * Dorcus Venu
-* Mpho Maphuru
+* Mpho Marufu
 * Amukelani Ngobeni
 * Lebogang Lamola
